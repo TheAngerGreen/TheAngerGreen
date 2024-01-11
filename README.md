@@ -2,7 +2,6 @@
 ---
 ### 👨‍💻 Обо мне:
 
-<ul>
  <li>Я тестировщик (QA Engineer).</li>
 <li> 😌 Закончил <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing](https://drive.google.com/file/d/1gs0rrcEybo4uCL36j4ZVUFF9EKjDyhak/view)">курс функционального тестирования ПО</a> </li>
 <li>☕ Сейчас я учусь тестированию в Java и Python </li>
@@ -10,7 +9,6 @@
 <li>📙 Посмотрите мое <a href="https://drive.google.com/file/d/">резюме</a></li> 
 <li> 📘 Некоторые мои учебные кейсы доступны на <a href="https://github.com/d/">Github</a></li> </li> </li>
 <li> 📫 Как связаться со мной:<a href= "mailto:yakovlev1998_16@mail.ru"><img src="https://logowik.com/content/uploads/images/mailru1685.jpg" width="70" height="50" title="mail" alt="mail"/></a>
-</ul>
                            
 ---
 ### 🤝 Социальные сети:
@@ -76,7 +74,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp
- 
+ <img src="https://tiniatov.ru/wp-content/uploads/c/a/b/cab466aa3eb8325e9ef78a9935ad56c3.png" title="python" alt="python" width="40" height="40"/>&nbsp
 </div>
 
 ---
