@@ -3,7 +3,7 @@
 ---
 
 ### 👨‍💻 Обо мне:
-https://drive.google.com/file/d/1gs0rrcEybo4uCL36j4ZVUFF9EKjDyhak/view
+
 - Я тестировщик (QA Engineer).
 - 😌 Закончил <a href="https://drive.google.com/file/d/1gs0rrcEybo4uCL36j4ZVUFF9EKjDyhak/view?usp=sharing/">курс функционального тестирования ПО </a>
 - ☕ Сейчас я учусь тестированию в Java и Python
