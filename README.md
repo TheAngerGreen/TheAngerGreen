@@ -2,9 +2,16 @@
 ---
 ### 👨‍💻 Обо мне:
 
-Я тестировщик (QA Engineer).
- 📫 Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-@Mail-blue?style=flat&logo=@mail&logoColor=white)](mailto:qa.yakovlev1998_16@mail.ru)
-
+<ul>
+ <li>Я тестировщик (QA Engineer).</li>
+<li> 😌 Закончил <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing](https://drive.google.com/file/d/1gs0rrcEybo4uCL36j4ZVUFF9EKjDyhak/view)">курс функционального тестирования ПО</a> </li>
+<li>☕ Сейчас я учусь тестированию в Java и Python </li>
+<li> Несколько фактов о моей жизни: у меня высшее юридическое образование⚖️, музыкальное образование🎶, есть собака 🐕 и кошка🐈</li>
+<li>📙 Посмотрите мое <a href="https://drive.google.com/file/d/">резюме</a></li> 
+<li> 📘 Некоторые мои учебные кейсы доступны на <a href="https://github.com/d/">Github</a></li> </li> </li>
+<li> 📫 Как связаться со мной:<a href= "mailto:yakovlev1998_16@mail.ru"><img src="https://logowik.com/content/uploads/images/mailru1685.jpg" width="70" height="50" title="mail" alt="mail"/></a>
+</ul>
+                           
 ---
 ### 🤝 Социальные сети:
 
