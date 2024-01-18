@@ -2,19 +2,19 @@
 
 ---
 
-### 👨‍💻 Обо мне:
+### Обо мне:
 
 - Я тестировщик (QA Engineer).
-- 😌 Закончил <a href="https://drive.google.com/file/d/1gs0rrcEybo4uCL36j4ZVUFF9EKjDyhak/view?usp=sharing/">курс функционального тестирования ПО </a>
-- ☕ Сейчас я учусь тестированию в Java и Python
-- Несколько фактов о моей жизни: у меня высшее юридическое образование⚖️, музыкальное образование🎶, есть собака 🐕 и кошка🐈
-- 📙 Посмотрите мое <a href="https://drive.google.com/file/d/1ngr_cA-hzdZeIyEq6HlVrONffMUjJWh3/view?usp=sharing/">резюме</a>
--  📘 Некоторые мои учебные кейсы доступны на <a href="https://github.com/TheAngerGreen?tab=repositories">Github</a> 
--   📫 Как связаться со мной:   [![LinkedIn Badge](https://img.shields.io/badge/-@Mail-blue?style=flat&logo=@mail&logoColor=white)](mailto:yakovlev1998_16@mail.ru)                    
+- Закончил <a href="https://drive.google.com/file/d/1gs0rrcEybo4uCL36j4ZVUFF9EKjDyhak/view?usp=sharing/">курс функционального тестирования ПО. </a>
+- Сейчас я учусь тестированию в Java и Python.
+- Несколько фактов о моей жизни: у меня высшее юридическое образование, музыкальное образование, есть собака  и кошка.
+- Посмотрите мое <a href="https://drive.google.com/file/d/1o8XU41s35yOtAI5-xLg0smWOIxTaRqSx/view?usp=sharing/">резюме</a>.
+-  Некоторые мои учебные кейсы доступны на <a href="https://github.com/TheAngerGreen?tab=repositories">Github</a>. 
+-   Как связаться со мной:   [![LinkedIn Badge](https://img.shields.io/badge/-@Mail-blue?style=flat&logo=@mail&logoColor=white)](mailto:yakovlev1998_16@mail.ru) .                   
 
 ---
 
-### 🤝 Социальные сети:
+### Социальные сети:
 
   <div id="badges">
         <a href="https://t.me/theangergreen" target="_blank">
