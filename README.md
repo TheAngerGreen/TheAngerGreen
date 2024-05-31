@@ -5,7 +5,7 @@
 ### Обо мне:
 
 - Я тестировщик (QA Engineer).
-- Закончил <a href="https://drive.google.com/file/d/1gs0rrcEybo4uCL36j4ZVUFF9EKjDyhak/view?usp=sharing/">курс функционального тестирования ПО. </a> Можете ознакомиться с <a href="https://drive.google.com/file/d/1mvvmeWn2czGkoggFT1t8ThXC5yc_3YQL/view?usp=sharing/"> сертификатом </a>
+- Закончил <a href="https://drive.google.com/file/d/1gs0rrcEybo4uCL36j4ZVUFF9EKjDyhak/view?usp=sharing/">курс функционального тестирования ПО. </a> Можете ознакомиться с <a href="https://drive.google.com/file/d/1mvvmeWn2czGkoggFT1t8ThXC5yc_3YQL/view?usp=sharing/"> сертификатом. </a>
 - Сейчас я учусь тестированию в Java и Python.
 - Несколько фактов о моей жизни: у меня высшее юридическое образование, музыкальное образование, есть собака  и кошка.
 - Посмотрите мое <a href="https://drive.google.com/file/d/1o8XU41s35yOtAI5-xLg0smWOIxTaRqSx/view?usp=sharing/">резюме</a>.
