@@ -8,7 +8,7 @@
 - Закончил <a href="https://drive.google.com/file/d/1gs0rrcEybo4uCL36j4ZVUFF9EKjDyhak/view?usp=sharing/">курс функционального тестирования ПО. </a> Можете ознакомиться с <a href="https://drive.google.com/file/d/1mvvmeWn2czGkoggFT1t8ThXC5yc_3YQL/view?usp=sharing/"> сертификатом. </a>
 - Сейчас я учусь тестированию в Java и Python.
 - Несколько фактов о моей жизни: у меня высшее юридическое образование, музыкальное образование, есть собака  и кошка.
-- Посмотрите мое <a href="https://drive.google.com/file/d/1o8XU41s35yOtAI5-xLg0smWOIxTaRqSx/view?usp=sharing/">резюме</a>.
+- Посмотрите мое <a href="https://drive.google.com/file/d/1uM-5n6t23Ps9FCImUxzMcjE-lq21e0vf/view?usp=sharing">резюме</a>.
 -  Некоторые мои учебные кейсы доступны на <a href="https://github.com/TheAngerGreen?tab=repositories">Github</a>. 
 -   Как связаться со мной:   [![LinkedIn Badge](https://img.shields.io/badge/-@Mail-blue?style=flat&logo=@mail&logoColor=white)](mailto:yakovlev1998_16@mail.ru) .                   
 
